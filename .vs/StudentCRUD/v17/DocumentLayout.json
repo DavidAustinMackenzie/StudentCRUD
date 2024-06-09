@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Apps\\StudentCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96234DD2-135A-4151-85BF-F299492B9E93}|StudentCRUD.Web\\StudentCRUD.Web.csproj|e:\\apps\\studentcrud\\studentcrud.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96234DD2-135A-4151-85BF-F299492B9E93}|StudentCRUD.Web\\StudentCRUD.Web.csproj|solutionrelative:studentcrud.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96234DD2-135A-4151-85BF-F299492B9E93}|StudentCRUD.Web\\StudentCRUD.Web.csproj|e:\\apps\\studentcrud\\studentcrud.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96234DD2-135A-4151-85BF-F299492B9E93}|StudentCRUD.Web\\StudentCRUD.Web.csproj|solutionrelative:studentcrud.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96234DD2-135A-4151-85BF-F299492B9E93}|StudentCRUD.Web\\StudentCRUD.Web.csproj|e:\\apps\\studentcrud\\studentcrud.web\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96234DD2-135A-4151-85BF-F299492B9E93}|StudentCRUD.Web\\StudentCRUD.Web.csproj|solutionrelative:studentcrud.web\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96234DD2-135A-4151-85BF-F299492B9E93}|StudentCRUD.Web\\StudentCRUD.Web.csproj|e:\\apps\\studentcrud\\studentcrud.web\\views\\students\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96234DD2-135A-4151-85BF-F299492B9E93}|StudentCRUD.Web\\StudentCRUD.Web.csproj|solutionrelative:studentcrud.web\\views\\students\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96234DD2-135A-4151-85BF-F299492B9E93}|StudentCRUD.Web\\StudentCRUD.Web.csproj|e:\\apps\\studentcrud\\studentcrud.web\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96234DD2-135A-4151-85BF-F299492B9E93}|StudentCRUD.Web\\StudentCRUD.Web.csproj|solutionrelative:studentcrud.web\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96234DD2-135A-4151-85BF-F299492B9E93}|StudentCRUD.Web\\StudentCRUD.Web.csproj|e:\\apps\\studentcrud\\studentcrud.web\\views\\students\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96234DD2-135A-4151-85BF-F299492B9E93}|StudentCRUD.Web\\StudentCRUD.Web.csproj|solutionrelative:studentcrud.web\\views\\students\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96234DD2-135A-4151-85BF-F299492B9E93}|StudentCRUD.Web\\StudentCRUD.Web.csproj|e:\\apps\\studentcrud\\studentcrud.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96234DD2-135A-4151-85BF-F299492B9E93}|StudentCRUD.Web\\StudentCRUD.Web.csproj|solutionrelative:studentcrud.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96234DD2-135A-4151-85BF-F299492B9E93}|StudentCRUD.Web\\StudentCRUD.Web.csproj|e:\\apps\\studentcrud\\studentcrud.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96234DD2-135A-4151-85BF-F299492B9E93}|StudentCRUD.Web\\StudentCRUD.Web.csproj|solutionrelative:studentcrud.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Apps\\StudentCRUD\\StudentCRUD.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StudentCRUD.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Apps\\StudentCRUD\\StudentCRUD.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StudentCRUD.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T06:46:32.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Apps\\StudentCRUD\\StudentCRUD.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentCRUD.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Apps\\StudentCRUD\\StudentCRUD.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StudentCRUD.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T06:45:26.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Apps\\StudentCRUD\\StudentCRUD.Web\\Program.cs",
+              "RelativeDocumentMoniker": "StudentCRUD.Web\\Program.cs",
+              "ToolTip": "E:\\Apps\\StudentCRUD\\StudentCRUD.Web\\Program.cs",
+              "RelativeToolTip": "StudentCRUD.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T06:43:25.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Apps\\StudentCRUD\\StudentCRUD.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StudentCRUD.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Apps\\StudentCRUD\\StudentCRUD.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StudentCRUD.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T06:38:04.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "E:\\Apps\\StudentCRUD\\StudentCRUD.Web\\Views\\Students\\List.cshtml",
+              "RelativeDocumentMoniker": "StudentCRUD.Web\\Views\\Students\\List.cshtml",
+              "ToolTip": "E:\\Apps\\StudentCRUD\\StudentCRUD.Web\\Views\\Students\\List.cshtml",
+              "RelativeToolTip": "StudentCRUD.Web\\Views\\Students\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T06:11:26.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "E:\\Apps\\StudentCRUD\\StudentCRUD.Web\\Views\\Students\\Add.cshtml",
+              "RelativeDocumentMoniker": "StudentCRUD.Web\\Views\\Students\\Add.cshtml",
+              "ToolTip": "E:\\Apps\\StudentCRUD\\StudentCRUD.Web\\Views\\Students\\Add.cshtml",
+              "RelativeToolTip": "StudentCRUD.Web\\Views\\Students\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T06:04:24.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\Apps\\StudentCRUD\\StudentCRUD.Web\\Views\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StudentCRUD.Web\\Views\\Students\\Edit.cshtml",
+              "ToolTip": "E:\\Apps\\StudentCRUD\\StudentCRUD.Web\\Views\\Students\\Edit.cshtml",
+              "RelativeToolTip": "StudentCRUD.Web\\Views\\Students\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T06:04:14.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "E:\\Apps\\StudentCRUD\\StudentCRUD.Web\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentCRUD.Web\\Controllers\\StudentsController.cs",
+              "ToolTip": "E:\\Apps\\StudentCRUD\\StudentCRUD.Web\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentCRUD.Web\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wCwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T06:02:02.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
